@@ -1,0 +1,1 @@
+letter = chr(input("enter a letter  from A-Z:"))
